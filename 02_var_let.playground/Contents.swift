@@ -33,3 +33,6 @@ print(😃)
 
 // For code readness is not recomended to use these kind of variable names
 // ----------------------------------------------
+
+// Print string interpolation example
+print("The current login attempt is: \(currentLoginAttempt), of a total allowed attempts of: \(maximumNumberOfLoginAttempts)")
