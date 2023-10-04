@@ -36,3 +36,9 @@ print(😃)
 
 // Print string interpolation example
 print("The current login attempt is: \(currentLoginAttempt), of a total allowed attempts of: \(maximumNumberOfLoginAttempts)")
+
+// One line Comment
+
+/* Multi-line comment
+ Use this kind when you need a more explained comment */
+
